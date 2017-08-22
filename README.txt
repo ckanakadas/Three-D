@@ -1,3 +1,1 @@
-# risk
-Very funny
-Time is very precious
+3D platform for visualizing, manipulating, and understanding life sciences data from computed tomography, microscopy, MRI, and many other imaging modalities. 
